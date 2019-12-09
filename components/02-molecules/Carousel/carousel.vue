@@ -5,7 +5,6 @@
       :autoplay="false"
       :loop="false"
       :per-page="1"
-      :pagination-color="grey"
       :speed="1500"
     >
       <slide>
